@@ -31,7 +31,7 @@ End-to-end memory networks.
 
 ![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/Assests/img.png)
 
-11) **[CMS](https://github.com/genigarus/CMS)** - The Online College Management website is useful for the students,staff,parents who like to display result as well attendance and all the tasks like event,news,fresh assignment without going to college. It provides the facility to the students or parents to have complete information about the college.
+11) **[CMS](https://github.com/genigarus/CMS)** - The Online College Management website is useful for the students,staff,parents to see result as well attendance and all the tasks like event,news,fresh assignment without going to college. It provides the facility to the students or parents to have complete information about the college.
 
 12) **[ONPS](https://github.com/genigarus/ONPS)** - A J2EE based project on automating the polling system in India.
 

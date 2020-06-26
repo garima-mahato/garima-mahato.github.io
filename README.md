@@ -1,4 +1,6 @@
-# My Work
+**[GitHub Link](https://github.com/genigarus)**   **[LinkedIn](https://www.linkedin.com/in/garimamahato/)**
+
+# My Projects
 
 1) **[MaskDepthGenerator](https://github.com/genigarus/MaskDepthGenerator)** takes an image and its background as input to generate depth and mask for the image. 
 

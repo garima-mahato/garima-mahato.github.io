@@ -1,4 +1,4 @@
-**[GitHub](https://github.com/genigarus)**   **[LinkedIn](https://www.linkedin.com/in/garimamahato/)**
+**[Resume](https://github.com/genigarus/genigarus.github.io/blob/master/docs/GarimaMahato__Resume.pdf)**  **[GitHub](https://github.com/genigarus)**   **[LinkedIn](https://www.linkedin.com/in/garimamahato/)**
 
 # My Projects
 

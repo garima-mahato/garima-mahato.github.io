@@ -25,7 +25,7 @@ End-to-end memory networks.
 
 8) **[TextGeneration](https://github.com/genigarus/TextGeneration)** - Generate text using LSTM.
 
-9) **[MLExploration](https://github.com/genigarus/MLExploration)**
+9) **[MLExploration](https://github.com/genigarus/MLExploration)** consist of various random explorations in the field of Machine Learning.
 
 10) **[FalseColoring](https://github.com/genigarus/FalseColoring)** contains code to generate lines within retina.
 

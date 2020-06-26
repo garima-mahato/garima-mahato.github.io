@@ -10,7 +10,9 @@
 
 5) **[EVA4](https://github.com/genigarus/EVA4)** contains all the work related to EVA 4 Phase 1.
 
-6) **[Chatbot on Bambi Dataset](https://github.com/genigarus/NLP/blob/master/ChatBot.ipynb)**
+6) **[Generating Indian Faces](https://github.com/genigarus/MLExploration/blob/master/GeneratingIndianFaces.ipynb)** - Created an Indian Face Database consisting of 28 Indians in different poses and lighting conditions, and then trained a deconvolution neural network to generate faces based on high-level features.
+
+7) **[Chatbot on Bambi Dataset](https://github.com/genigarus/NLP/blob/master/ChatBot.ipynb)**
 
 • This chatbot uses End-to-end memory network to answer question on Bambi dataset with a 
 training accuracy of 90.22%. The network was created concatenating a series of embedding 
@@ -19,15 +21,17 @@ End-to-end memory networks.
 
 • Language – Python, Libraries - Keras
 
-**[MLExploration](https://github.com/genigarus/MLExploration)**
+8) **[TextGeneration](https://github.com/genigarus/TextGeneration)** - Generate text using LSTM.
 
-**[FalseColoring](https://github.com/genigarus/FalseColoring)** contains code to generate lines within retina.
+9) **[MLExploration](https://github.com/genigarus/MLExploration)**
+
+10) **[FalseColoring](https://github.com/genigarus/FalseColoring)** contains code to generate lines within retina.
 
 ![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/Assests/img.png)
 
-**[CMS](https://github.com/genigarus/CMS)** - The Online College Management website is useful for the students,staff,parents who like to display result as well attendance and all the tasks like event,news,fresh assignment without going to college. It provides the facility to the students or parents to have complete information about the college.
+11) **[CMS](https://github.com/genigarus/CMS)** - The Online College Management website is useful for the students,staff,parents who like to display result as well attendance and all the tasks like event,news,fresh assignment without going to college. It provides the facility to the students or parents to have complete information about the college.
 
-**[ONPS](https://github.com/genigarus/ONPS)** - A J2EE based project on automating the polling system in India.
+12) **[ONPS](https://github.com/genigarus/ONPS)** - A J2EE based project on automating the polling system in India.
 
-**[PyMaryo](https://github.com/genigarus/PyMaryo)** - Simplified version of Maryo game in python.
+13) **[PyMaryo](https://github.com/genigarus/PyMaryo)** - Simplified version of Maryo game in python.
 

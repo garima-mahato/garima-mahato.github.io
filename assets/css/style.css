@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
+  body {
     font-family: "Open Sans", sans-serif;
     color: #121212;
   }
@@ -58,6 +58,15 @@ body {
     border: 10px solid #2c2f3f;
   }
 
+  @media (max-width: 1199px) {
+    #gp_header {
+      left: -300px;
+    }
+    #gp_main {
+      margin-left: 0;
+    }
+  }
+
 /*-------------------------------------------------------------
 Navigation Menu
 --------------------------------------------------------------*/
@@ -99,6 +108,36 @@ Navigation Menu
 
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu li:hover > a i {
   color: #00899C;
+}
+
+/* Mobile Navigation */
+.mobile-nav-toggle {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  z-index: 9998;
+  border: 0;
+  font-size: 24px;
+  transition: all 0.4s;
+  outline: none !important;
+  background-color: #149ddd;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.mobile-nav-active {
+  overflow: hidden;
+}
+
+.mobile-nav-active #gp_header {
+  left: 0;
 }
 
 /*--------------------------------------------------------------
@@ -559,4 +598,16 @@ section {
 
   .gp_social_links {
     padding-left: 15px;
+  }
+
+  @media (max-width: 1199px) {
+    #gp_footer {
+      position: static;
+      width: auto;
+      padding-right: 20px 15px;
+    }
+
+    .gp_social_links {
+      padding-left: 250px;
+    }
   }

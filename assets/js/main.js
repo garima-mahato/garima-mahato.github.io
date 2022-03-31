@@ -67,6 +67,15 @@
     }
 
     /**
+     * Mobile nav toggle
+     */
+     on('click', '.mobile-nav-toggle', function(e) {
+      select('body').classList.toggle('mobile-nav-active')
+      this.classList.toggle('bi-list')
+      this.classList.toggle('bi-x')
+    })
+
+    /**
      * Scroll with offset on links with a class name .scrollto
      */
     on('click', '.scrollto', function(e) {
@@ -172,7 +181,7 @@
     const typed = select('.typed');
     console.log(typed)
     if (typed) {
-        console.log("1")
+        //console.log("1")
         let typed_strings = typed.getAttribute('data-typed-items')
         typed_strings = typed_strings.split(',')
         new Typed('.typed', {
